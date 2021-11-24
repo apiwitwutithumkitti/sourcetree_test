@@ -11,5 +11,9 @@ public class JavaApplication {
 		int sum = number1 + number2;
 		return sum;
 	}
+
+	private int multiply(int number1, int number2) {		
+		return number1 * number2;
+	}
 	
 }
